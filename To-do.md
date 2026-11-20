@@ -1,0 +1,24 @@
+- [X] Add a configuration reader
+- [X] Add a configuration loader
+- [X] fix configuration
+- [ ] Add user and game configuration files
+- [ ] Reformat packages
+- [ ] Reformat `GamePanel`
+- [ ] Reformat `GameManager`
+- [ ] Add a separate renderer
+- [ ] Add a separate updater
+- [ ] Add a separate `InputManager`
+- [ ] Create a new game loop
+- [ ] Load values from the configuration
+- [ ] Fix the Swing frame
+- [ ] Add projection
+- [ ] Add a custom measurement system
+- [ ] Fix the paddle and rectangle
+- [ ] Add a ball
+- [ ] Fix input System
+- [ ] add Render Modes
+- [X] add Log functionality
+- [ ] implement Logs
+- [X] reformat Logs properly
+- [ ] add game console
+- [ ] clean all warns
